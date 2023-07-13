@@ -8,7 +8,8 @@
 
 
 # Instructions: 
-### Please look at the attached pdf to see the full output of the code when it was run. We had some issues when we saved the code to our shared google drive folder and it cleared some of our outputs in the second half of the project. There is also a .py file so you can run the code on your own. There is a tf.set_seed() applied for replicable results. 
+## Please see the attached pdf which contains the full notebook code with outputs. 
+## We had some issues when we saved the code to our shared google drive folder and it cleared some of our outputs in the second half of the project. There is also a .py file so you can run the code on your own. There is a tf.set_seed() applied for replicable results. 
 
 # References/Sources(addional sources also noted at the end of the writeup): 
 ### https://github.com/lucrieffel/Brain-Tumor-Classification-DataSet
