@@ -1,6 +1,6 @@
 # Brain_Tumor_Image_Classification
 ## CPSC 393 Final Project
-## BY: Luc Rieffel, Jackie Vu, Esha Yamani, Grant Sielman
+## BY: Luc Rieffel, Jackie Vu, Esha Yamani, and Grant Sielman
 
 # Source Code Files: 
 ### brain-tumor-classification-cnn.ipynb
