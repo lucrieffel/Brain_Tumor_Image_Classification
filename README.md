@@ -6,7 +6,6 @@
 ### brain-tumor-classification-cnn.ipynb
 ### brain_tumor_classification_cnn.py
 
-
 # Instructions: 
 ## Please see the attached pdf which contains the full notebook code with outputs. 
 ## We had some issues when we saved the code to our shared google drive folder and it cleared some of our outputs in the second half of the project. There is also a .py file so you can run the code on your own. There is a tf.set_seed() applied for replicable results. 
